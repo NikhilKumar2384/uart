@@ -1,4 +1,4 @@
-`include "boud_gen.v"
+ `include "boud_gen.v"
 `include "tx_uart.v"
 `include "rx_uart.v"
 
